@@ -1,2 +1,2 @@
-# repo-testt
+# html_example
 Пример простой веб-страницы
